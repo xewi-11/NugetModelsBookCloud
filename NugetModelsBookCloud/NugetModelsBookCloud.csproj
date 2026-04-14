@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>BookCloud Models</Title>
+    <Description>Modelos bookCloud proyecto propio</Description>
+    <PackageIcon>bookCLoiud foto.jpeg</PackageIcon>
+    <PackageTags>bookCloud</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="bookCLoiud foto.jpeg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
