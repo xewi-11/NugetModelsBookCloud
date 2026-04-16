@@ -9,6 +9,7 @@
     <Description>Modelos bookCloud proyecto propio</Description>
     <PackageIcon>bookCLoiud foto.jpeg</PackageIcon>
     <PackageTags>bookCloud</PackageTags>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
